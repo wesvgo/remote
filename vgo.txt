@@ -1,1 +1,3 @@
 use git
+master here
+1.进入本人的虚拟机，并到项目目录下。
