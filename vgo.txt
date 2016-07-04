@@ -1,3 +1,5 @@
 use git
 master here
 1.进入本人的虚拟机，并到项目目录下。
+2.切换至develop分支，并更新。
+3.新建分支help
