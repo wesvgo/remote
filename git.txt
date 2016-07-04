@@ -1,0 +1,10 @@
+use git
+important command
+//提交到本地分支
+git add/commit
+//查看修改状态
+git log/status/diff/-- cached/-- staged
+//撤销、回退
+git checkout/reset --hard HEAD
+//删除
+git rm/git rm
